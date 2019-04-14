@@ -39,10 +39,10 @@ public class TesteCandidaturaVaga {
 		solides.validacao("Currículo atualizado com sucesso!");
 	}
 
-/*	@After
+	@After
 	public void posCondicao() {
 
 		driver.quit();
-	}*/
+	}
 
 }
